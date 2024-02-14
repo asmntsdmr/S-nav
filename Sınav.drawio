@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-02-14T18:03:44.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="stF230qVfGLWaR2qOLCu" version="23.1.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="794" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y2cClCiGcrKOvnQ2EoQH-1" target="y2cClCiGcrKOvnQ2EoQH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-1" value="Oda &amp;nbsp;hesaplama" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y2cClCiGcrKOvnQ2EoQH-2" target="y2cClCiGcrKOvnQ2EoQH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-2" value="&amp;nbsp;en, boy ve &lt;br&gt;yükseklik bilgilerini al" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y2cClCiGcrKOvnQ2EoQH-3" target="y2cClCiGcrKOvnQ2EoQH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-3" value="alan &amp;nbsp;= &amp;nbsp;en &amp;nbsp;* &amp;nbsp;boy&lt;br&gt;hacim &amp;nbsp;= alan &amp;nbsp;* yükseklik&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="290" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y2cClCiGcrKOvnQ2EoQH-8" target="y2cClCiGcrKOvnQ2EoQH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-8" value="Alan ve hacmi ekrana yazdır" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="510" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y2cClCiGcrKOvnQ2EoQH-10" value="Bitir" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
