@@ -1,0 +1,31 @@
+#include <iostream>
+class Oda {
+    public:
+    float en;
+    float boy;
+    float yukseklik;
+    
+    float alan (float en, float boy){
+        float alan = en * boy;
+        return alan;
+    };
+    float hacim (float yukseklik){
+        float hacim = alan(en,boy) * yukseklik;
+        return hacim;
+    };
+};
+
+int main() {
+    Oda oda;
+    
+    printf("Odanin enini girin: ");
+    scanf("%f", &oda.en);
+    printf("Odanin boyunu girin: ");
+    scanf("%f", &oda.boy);
+    printf("Odanin yuksekligini girin: ");
+    scanf("%f", &oda.yukseklik);
+    
+    printf("Odanin alani = %2.f metrekare\n", oda.alan(oda.en, oda.boy));
+    printf("Odanın boyu = %2.f metreküp\n", oda.hacim(oda.yukseklik));
+    return 0;
+}
