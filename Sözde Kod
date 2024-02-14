@@ -1,0 +1,7 @@
+1. Kullanıcıdan en, boy, yükseklik bilgilerini aldım
+2. Aldığım bilgileri oda sınıfının değişkenlerine atadım
+3. Odanın alan bilgisini yazdırırken alan hesaplayan fonksiyonu çağırdım
+4. Alan hesaplayan fonksiyonda en ve boyu çarpıp alanı geri döndürdüm
+5. Odanın hacim bilgisini yazdırırken hacim hesaplayan fonksiyonu çağırdım
+6. Hacim hesaplayan fonksiyonda alan ile yüksekliği çarpıp hacmi geri döndürdüm
+7. Bitiş
